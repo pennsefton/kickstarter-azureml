@@ -1,14 +1,7 @@
 !.gitignore
-!Models
-!Data Loading.ipynb
-!Data Preprocessing.ipynb
-!Data Profiling.ipynb
-!Model Explainability.ipynb
-!Model Training.ipynb
-!Shap Load.ipynb
-!streamlit_explainability.ipynb
-!streamlit_explainability.py
-!streamlit_shap.py
+!/Models
+!/Notebooks
+!environment.yml
 /.ipynb_aml_checkpoints
 *.amltmp
 /Models/*.amltmp
